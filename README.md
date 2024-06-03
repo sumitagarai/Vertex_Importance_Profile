@@ -14,11 +14,11 @@ Quantifying Regional Contributions from the Brain Network towards Cognition
 
 All the experiments are issued in the form of pretty self-explanatory jupyter notebooks (`notebooks/`). For preserving patient privacy in healthcare data, the majority of the evaluation output is hidden.
 
-- ```VIP_ADNI.ipynb``` - For computing vertex importance profiles for ADNI subjects 
-- ```VIP_HCP.ipynb``` -  For computing vertex importance profiles for HCP subjects 
+
+- ```VIP_HCP.ipynb``` -  Function for computing vertex importance profiles, demostrated on HCP subjects 
 
 
-## Datasets
+## Datasets in this study 
 - Human Connectome Project- Young Adults (HCP-YA)
 - Alzheimer’s Disease Neuroimaging Initiative (ADNI-3)
 
